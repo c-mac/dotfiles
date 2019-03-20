@@ -2,6 +2,7 @@ call plug#begin('~/.vim/plugged')
   Plug 'rust-lang/rust.vim'
   Plug 'w0rp/ale'
   Plug 'tpope/vim-dispatch'
+  Plug 'vim-airline/vim-airline'
 call plug#end()
 
 set encoding=utf-8
